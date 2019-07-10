@@ -8,8 +8,8 @@ h2 {
     margin: .25rem;
 }
 
-div.container {
-    margin: auto;
+.container {
+    margin: 4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
